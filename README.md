@@ -21,7 +21,7 @@ Execute the following command to launch the MiniML interpreter:
 Input and Execute Expressions:
 
 Begin typing MiniML (OCaml-like) expressions in the terminal.
-End each expression with ;; to execute it.
+End each expression with ";;" to execute it.
 
 Examples:
   Simple Arithmetic:
